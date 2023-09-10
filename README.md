@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, my name is Zachary Rundstrom 🇺🇸</h1>
 <h3 align="center">A Computer Science student studying at ASU🔱👹</h3>
 
+<p>Hello! I am an engineering student who is on track to earn my Bachelor's in Computer Science from Arizona State University. I enjoy a challenge and strive to push myself out of my comfort zone to learn and grow. Looking to gain professional engineering experience through internships, volunteer and help my community, and connect with others who are passionate about engineering and coding!<p/>
+
 - 🔭 I’m currently working on **MERN application**
 
 - 🌱 I’m currently learning **MongoDB, Express, React**
@@ -11,7 +13,7 @@
 
 - 💬 Ask me about **Quidditch**
 
-- 📄 Learn about my experiences [Rundstrom_Zachary_Resume.pdf](https://github.com/BitwiseBenjamin/BitwiseBenjamin/files/12542541/Rundstrom_Zachary_Resume.pdf)
+- 📄 Learn about my experiences [Rundstrom_Zachary_Resume.pdf](https://github.com/BitwiseBenjamin/BitwiseBenjamin/files/12570530/Rundstrom_Zachary_Resume.pdf)
 
 - ⚡ Fun fact **My lizard stares at me all day 🦎**
 
