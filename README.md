@@ -3,13 +3,7 @@
 
 <p>Hello! I am an engineering student who is on track to earn my Bachelor's in Computer Science from Arizona State University. I enjoy a challenge and strive to push myself out of my comfort zone to learn and grow. Looking to gain professional engineering experience through internships, volunteer and help my community, and connect with others who are passionate about engineering and coding!<p/>
 
-- 🔭 I’m currently working on **MERN application**
-
-- 🌱 I’m currently learning **MongoDB, Express, React**
-
 - 👯 I’m looking to collaborate on **ASU automation tools**
-
-- 🤝 I’m looking for help with **Internships**
 
 - 💬 Ask me about **Quidditch**
 
