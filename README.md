@@ -7,7 +7,8 @@
 
 - 💬 Ask me about **Quidditch**
 
-- 📄 Learn about my experiences [Rundstrom_Zachary_Resume.pdf](https://github.com/BitwiseBenjamin/BitwiseBenjamin/files/12570530/Rundstrom_Zachary_Resume.pdf)
+- 📄 Learn about my experiences [Rundstrom_Zachary_Resume.pdf](https://github.com/user-attachments/files/16619469/Rundstrom_Zachary_Resume.pdf)
+
 
 - ⚡ Fun fact **My lizard stares at me all day 🦎**
 
